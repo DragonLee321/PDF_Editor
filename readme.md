@@ -21,4 +21,4 @@ No install. No server. ¯\\\_(ツ)\_/¯ https://pdf-editor.now.sh
 
 ---
 
-LICENSE MIT © 2020 ShizukuIchi
+LICENSE MIT © 2020 Dragonlee321
